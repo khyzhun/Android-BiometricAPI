@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BiometricExample</string>
+
+    <string name="biometric_title">Hello, this is my title</string>
+    <string name="biometric_subtitle">\"And this is my subtitle :) \"</string>
+    <string name="biometric_negative_button">Kancel</string>
+    <string name="biometric_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+    <string name="message_success">Success</string>
+    <string name="message_failed">failed</string>
+
+</resources>
